@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://thlizeupt.github.io/sitemap
+Sitemap: https://thlizeupt.github.io/app/sitemap
+Sitemap: https://thlizeupt.github.io/assets/sitemap
+Sitemap: https://thlizeupt.github.io/css/sitemap
+Sitemap: https://thlizeupt.github.io/includes/sitemap
+Sitemap: https://thlizeupt.github.io/item/sitemap
+Sitemap: https://thlizeupt.github.io/src/sitemap
